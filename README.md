@@ -53,17 +53,15 @@ Most of them are works in progress.
 
 ## 📜 Spellbook
 
-```text
-Python
-Git & GitHub
-APIs
-Ollama
-LLMs
-RAG
-AI Agents
-Django
-SQL
-```
+* 🐍 Python
+* 🦉 Git & GitHub
+* 🛠️ APIs
+* 🦙 Ollama
+* 🤖 LLMs
+* 🔮 RAG
+* 🧙 AI Agents
+* 🌐 Django
+* 🗄️ SQL
 
 ---
 
@@ -73,4 +71,4 @@ I'm still at the beginning of the journey.
 
 This profile will grow as I learn more, build more, and discover new things worth building.
 
-More projects coming soon. 🪄
+**More projects coming soon. 🪄**
