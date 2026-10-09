@@ -33,6 +33,16 @@ My current studies in the magical arts of technology:
 
 ---
 
+## ✨ Featured Projects
+
+| UniPulse | WebBrief |
+|---|---|
+| AI-powered academic email assistant that prioritizes emails, summarizes announcements, and extracts deadlines. | Chrome extension that summarizes webpages and extracts key information. |
+| [View UniPulse](https://github.com/LabibCraftsSpells/UniPulse) | [View WebBrief](https://github.com/LabibCraftsSpells/WebBrief) |
+| **Stack:** Python, FastAPI, React, SQLite, Gemini AI | **Stack:** JavaScript, Chrome Extension, OpenRouter |
+
+---
+
 ## ⚡ Projects from the Workshop
 
 ### 📬 [UniPulse](https://github.com/LabibCraftsSpells/UniPulse)
